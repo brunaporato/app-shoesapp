@@ -1,4 +1,4 @@
-package com.rocketseat.igniteshoes.newarchitecture.modules;
+package com.rocketseat.igniteshoesapp.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;

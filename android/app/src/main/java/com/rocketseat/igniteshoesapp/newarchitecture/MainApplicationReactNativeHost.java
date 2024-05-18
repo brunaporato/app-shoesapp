@@ -1,4 +1,4 @@
-package com.rocketseat.igniteshoes.newarchitecture;
+package com.rocketseat.igniteshoesapp.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -20,9 +20,9 @@ import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.rocketseat.igniteshoes.BuildConfig;
-import com.rocketseat.igniteshoes.newarchitecture.components.MainComponentsRegistry;
-import com.rocketseat.igniteshoes.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.rocketseat.igniteshoesapp.BuildConfig;
+import com.rocketseat.igniteshoesapp.newarchitecture.components.MainComponentsRegistry;
+import com.rocketseat.igniteshoesapp.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 
